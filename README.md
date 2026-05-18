@@ -90,23 +90,23 @@ project/
 
 
 
-│   ├── src/
+│     ├── src/
 
 
 
-│   │   ├── components/
+│     │   ├── components/
 
 
 
-│   │   ├── context/
+│     │   ├── context/
 
 
 
-│   │   ├── pages/
+│     │   ├── pages/
 
 
 
-│   │   └── styles/
+│     │   └── styles/
 
 
 
@@ -118,15 +118,15 @@ project/
 
 
 
-│   ├── server.js
+│     ├── server.js
 
 
 
-│   ├── db.js
+│     ├── db.js
 
 
 
-│   └── .env
+│     └── .env
 
 
 
