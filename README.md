@@ -82,57 +82,22 @@ VERMIL Portal — веб-приложение, посвященное серии
 
 
 
+```
 project/
 
-
-
 ├── client/
-
-
-
-│     ├── src/
-
-
-
-│     │   ├── components/
-
-
-
-│     │   ├── context/
-
-
-
-│     │   ├── pages/
-
-
-
-│     │   └── styles/
-
-
-
+│   └── src/
+│       ├── components/
+│       ├── context/
+│       ├── pages/
+│       └── styles/
 │
-
-
-
-├── server/
-
-
-
-│     ├── server.js
-
-
-
-│     ├── db.js
-
-
-
-│     └── .env
-
-
-
+└── server/
+    ├── server.js
+    ├── db.js
+    └── .env
+```
 ---
-
-
 
 # Установка проекта
 
