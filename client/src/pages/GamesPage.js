@@ -104,6 +104,16 @@ function GamesPage() {
 
                                             <div>
 
+                                                {game.image_url && (
+                                                    <div className="game-image-wrapper">
+                                                        <img
+                                                            src={`http://localhost:5000${game.image_url}`}
+                                                            alt={game.title}
+                                                            className="game-image"
+                                                        />
+                                                    </div>
+                                                )}
+
                                                 <div
                                                     className="mb-3 d-flex align-items-start"
                                                     style={{ minHeight: '112px' }}
